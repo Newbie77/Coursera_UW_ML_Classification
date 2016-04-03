@@ -1,0 +1,5 @@
+*.csv
+.ipynb_checkpoints
+amazon_baby.gl
+amazon_baby_subset.gl
+lending-club-data.gl
